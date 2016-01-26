@@ -10,6 +10,19 @@ Considered the JavaScript expert by many people in the development community, au
 - Analyzing JavaScript
 - A Simple Testing Ground
 
+### Chapter 2: Grammar
+- Whitespace
+- Names
+- Numbers
+- Strings
+- Statements
+- Expressions
+- Literals
+- Functions
+
 #### Updates
 ##### 22/01/2016
 - Finished Chapter 1: Good Parts
+
+##### 26/01/2016
+- Finished Chapter 2: Grammar
