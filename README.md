@@ -26,3 +26,6 @@ Considered the JavaScript expert by many people in the development community, au
 
 ##### 26/01/2016
 - Finished Chapter 2: Grammar
+
+##### 19/03/2016
+- Review Chapter 1: Good Parts
