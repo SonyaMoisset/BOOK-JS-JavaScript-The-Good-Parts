@@ -29,3 +29,4 @@ Considered the JavaScript expert by many people in the development community, au
 
 ##### 19/03/2016
 - Review Chapter 1: Good Parts
+- Review Chapter 2: Grammar
